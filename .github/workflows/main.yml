@@ -15,13 +15,12 @@
       - 名字: 设置Python 3.9
 使用: 操作/设置-python@v2
 随着:
-python版本: 3.9.1
-      - 名字: 设置时区
+大蟒版本: 3.9.1
 奔跑: |
-CP/usr/share/zoneinfo/Asia/Shanghai/etc/local time
-      - 名字: 安装pip包
+CP/usr/share/zoneinfo/亚洲/上海/etc/当地时间
+      - 名字: 安装点包
 奔跑: |
-python -m pip安装-升级pip
+python -m pip安装-升级点
 pip3 install -r requirements.txt
       - 名字: 伟信
 奔跑: |
